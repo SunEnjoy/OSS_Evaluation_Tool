@@ -1,6 +1,9 @@
 ## Functionality
 
 The main function of this tool is to help users quickly determine whether a GitHub open-source project is worth downloading.
+If you have jupyter notebook, you can download OSS_Evaluation_Tool.ipynb directly.
+OSS_Evaluation_Tool(With Test) is the same file as OSS_Evaluation_Tool, but contains the code for the test.
+If you do not have jupyter notebook, please download OSS_Evaluation_Tool.py. It can be run using any ide or command line you like, as long as the required environment is in place.
 
 (Note: As PATs have an Expire Date, if you find that the number of requests is insufficient you can contact me via the information in the Contact Section.)
 
@@ -74,17 +77,13 @@ Install: pip install scikit-learn
 
 ## Usage
 
-The use of this project is very simple, in general it only requires two parameters to be entered by the user, the first parameter is the choice between using keyword search or repository address search. （You have enter a number 1 or 2）
+The use of this project is very simple, in general it only requires two parameters to be entered by the user, the first parameter is the choice between using keyword search or repository address search. （You have to enter a number 1 or 2）
 
-![image-20220819162145958](C:\Users\73124\AppData\Roaming\Typora\typora-user-images\image-20220819162145958.png)
 
 The second parameter is the keyword/repo address.
 
-![image-20220819162352405](C:\Users\73124\AppData\Roaming\Typora\typora-user-images\image-20220819162352405.png)
 
 If you choose 2, then the address have to start with "https://github.com/". The repo address must be the **main page** of the repo.
-
-![image-20220819162619789](C:\Users\73124\AppData\Roaming\Typora\typora-user-images\image-20220819162619789.png)
 
 
 
