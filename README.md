@@ -2,11 +2,11 @@
 
 The main function of this tool is to help users quickly determine whether a GitHub open-source project is worth downloading.
 
-If you have jupyter notebook, you can download OSS_Evaluation_Tool.ipynb directly.
+If you have jupyter notebook, you can download **OSS_Evaluation_Tool.ipynb** directly.
 
-OSS_Evaluation_Tool(With Test) is the same file as OSS_Evaluation_Tool, but contains the code for the test.
+**OSS_Evaluation_Tool(With Test)** is the same file as OSS_Evaluation_Tool, but contains the code for the test.
 
-If you do not have jupyter notebook, please download OSS_Evaluation_Tool.py. 
+If you do not have jupyter notebook, please download **OSS_Evaluation_Tool.py**. 
 
 It can be run using any ide or command line you like, as long as the required environment is in place.
 
